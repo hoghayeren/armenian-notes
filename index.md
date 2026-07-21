@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Learn Armenian with [your name]
+# Learn Armenian with Միշել
 
 Welcome! This is my personal study guide for Eastern and Western Armenian, documenting what I'm learning as I go.
 
