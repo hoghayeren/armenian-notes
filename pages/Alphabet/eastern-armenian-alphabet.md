@@ -5,5 +5,5 @@ nav_order: 1
 layout: default
 ---
 
-# Eastern Armenian Alphabet
+# **Eastern Armenian Alphabet**
 Coming soon
