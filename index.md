@@ -4,10 +4,12 @@ layout: home
 nav_order: 1
 ---
 
-# Learn Armenian with [your name]
+# Learn Armenian with Միշել
 
-Welcome! This is my personal study guide for Eastern and Western Armenian, documenting what I'm learning as I go.
+Welcome! My name is Michelle and this is my personal study guide for Eastern and Western Armenian, documenting what I'm learning as I go.
 
-👉 New here? Start with [Alphabet](/armenian-notes/pages/alphabet.html) to get familiar with the script.
+👉 This study guide is essentially crowd-sourced and might contain some mistakes. If you want to contact an experienced and knowledgeable teacher of Eastern or Western Armenian, pleases visit the following:
+
+👉 New to the language? Start with [Alphabet](/armenian-notes/pages/alphabet.html) to get familiar with the script.
 
 👉 Check out the [Grammar](/armenian-notes/pages/grammar.html) section for verb tenses and sentence structure notes.
