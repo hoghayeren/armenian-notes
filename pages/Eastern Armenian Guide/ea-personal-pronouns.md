@@ -8,8 +8,8 @@ layout: default
 # Personal Pronouns & "To Be"
 
 ## Lesson Objectives
-1. Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Eastern Armenian.
-2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Eastern Armenian.
+* Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Eastern Armenian.
+* Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Eastern Armenian.
 
 ## Eastern Armenian Personal Pronouns
 

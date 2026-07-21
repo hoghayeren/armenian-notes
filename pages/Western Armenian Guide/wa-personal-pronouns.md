@@ -7,8 +7,8 @@ layout: default
 # Personal Pronouns & "To Be"
 
 ## Lesson Objectives
-1. Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Western Armenian.
-2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Western Armenian.
+* Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Western Armenian.
+* Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Western Armenian.
 
 
 ## Western Armenian Personal Pronouns
