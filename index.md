@@ -12,4 +12,3 @@ Welcome! My name is Michelle and this is my personal study guide for Eastern and
 
 👉 New to the language? Start with [Alphabet](/armenian-notes/pages/alphabet.html) to get familiar with the script.
 
-👉 Check out the [Grammar](/armenian-notes/pages/grammar.html) section for verb tenses and sentence structure notes.
