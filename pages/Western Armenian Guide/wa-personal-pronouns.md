@@ -26,7 +26,7 @@ Note that **Դուն** is used when referring to just one person or to someone y
 <br>
 <br>
 
-### **Western Armenian Conjugation of the Verb "To Be"**
+## **Western Armenian Conjugation of the Verb "To Be"**
 The following are the **auxiliary verbs** in Western Armenian.
 
 |            | Singular | Plural |
