@@ -1,6 +1,6 @@
 ---
-title: Personal Pronouns and "To Be"
-parent: Grammar
+title:  Personal Pronouns and "To Be"
+parent: Eastern Armenian Guide
 nav_order: 1
 layout: default
 ---

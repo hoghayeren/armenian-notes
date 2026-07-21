@@ -1,6 +1,6 @@
 ---
 title: Present Tense
-parent: Grammar
+parent: Eastern Armenian Guide
 nav_order: 2
 layout: default
 ---
