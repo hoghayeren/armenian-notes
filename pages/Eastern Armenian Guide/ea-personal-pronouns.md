@@ -11,7 +11,7 @@ layout: default
 1. Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Eastern Armenian.
 2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Eastern Armenian.
 
-### Eastern Armenian Personal Pronouns
+## Eastern Armenian Personal Pronouns
 
 |            | Singular | Plural |
 | ---------- | --------------| ---------|
@@ -26,7 +26,7 @@ Note that **Դու** is used when referring to just one person or to someone you
 <br>
 <br>
 
-### Eastern Armenian Conjugation of the Verb "To Be"
+## Eastern Armenian Conjugation of the Verb "To Be"
 The following are the **auxiliary verbs** in Eastern Armenian. These are foundational to forming sentences.
 
 |            | Singular | Plural |

@@ -11,7 +11,7 @@ layout: default
 2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Western Armenian.
 
 
-### Western Armenian Personal Pronouns
+## Western Armenian Personal Pronouns
 
 |            | Singular | Plural |
 | ---------- | --------------| ---------|
