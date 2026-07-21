@@ -15,11 +15,11 @@ layout: default
 
 |            | Singular | Plural |
 | ---------- | --------------| ---------|
-| 1st Person | Ես (I) | Մենք (We)|
+| 1st Person | **Ես** (I) | **Մենք** (We)|
 | ---------- | --------------| ---------|
-| 2nd Person | Դուն (You inf., sing.) | Դուք (You form. pl.)|
+| 2nd Person | **Դուն** (You inf., sing.) | **Դուք** (You form. pl.)|
 | ---------- | --------------| ---------|
-| 3rd Person | Ան/ինք (He/She/It) | Անոնք/իրենք (They) |
+| 3rd Person | **Ան/ինք** (He/She/It) | **Անոնք/իրենք** (They) |
 
 Note that **Դուն** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people ("you all") or someone older than you or higher status according to the context of the environment.
 
