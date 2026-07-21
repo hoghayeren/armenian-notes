@@ -7,7 +7,4 @@ layout: default
 
 # Present Tense
 
-## Eastern Armenian
-
-
-## Western Armenian
+Coming soon

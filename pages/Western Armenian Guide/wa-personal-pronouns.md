@@ -7,13 +7,11 @@ layout: default
 # Personal Pronouns & "To Be"
 
 ## Lesson Objectives
-1. Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Eastern Armenian.
-2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Eastern Armenian.
+1. Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Western Armenian.
+2. Learn how to conjugate the verb “to be” and be able to say “I am”, “She is”, “They are”, etc. in Western Armenian.
 
 
 ### Western Armenian Personal Pronouns
-
-There are slight differences in Western Armenian personal pronouns compared to Eastern. Please see the chart below.
 
 |            | Singular | Plural |
 | ---------- | --------------| ---------|
@@ -23,12 +21,7 @@ There are slight differences in Western Armenian personal pronouns compared to E
 | ---------- | --------------| ---------|
 | 3rd Person | Ան/ինք (He/She/It) | Անոնք/իրենք (They) |
 
-In Western Armenian, 
-1. You (informal, singular) is **Դուն**
-2. He/She/It is **Ան** or **ինք**
-3. We is **Անոնք** or **իրենք**
-
-Similarly to Eastern Armenian, note that **Դուն** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people ("you all") or someone older than you or higher status according to the context of the environment.
+Note that **Դուն** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people ("you all") or someone older than you or higher status according to the context of the environment.
 
 <br>
 <br>
@@ -43,7 +36,5 @@ The following are the **auxiliary verbs** in Western Armenian.
 | 2nd Person | Դուն **ես** (You are) | Դուք **էք** (You are)|
 | ---------- | --------------| ---------|
 | 3rd Person | Ան/ինք(ն) **է** (He/She/It is)| Անոնք/իրենք **են** (They are) |
-
-Please note that You are (plural, formal) is Դուք **էք** instead of Դուք **եք** like it is in Eastern Armenian.  
 
 Again, note the difference between **Դուն** and **Դուք** depending on number of people, their age, and/or status relative to you depending on the context of environment. For example, if I am talking to my friend, I would use Դուն but with my boss or someone I just met I would use Դուք.
