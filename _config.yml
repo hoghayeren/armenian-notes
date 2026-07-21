@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Learn Armenian with Միշել
+description: My online study guide for Eastern and Western Armenian
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://hoghayeren.github.io
+baseurl: "/armenian-notes"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on GitHub":
+    - "https://github.com/hoghayeren/armenian-notes"
