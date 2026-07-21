@@ -7,4 +7,8 @@ layout: default
 
 # Personal Pronouns
 
-Hello
+| Person | Eastern Armenian | Western Armenian |
+| ------ | ---------------- | ---------------- |
+| I | ես (yes) | ես (yes) |
+| you (sing.) | դու (du) | դուն (tun) |
+| he/she/it | նա (na) | ան (an) |
