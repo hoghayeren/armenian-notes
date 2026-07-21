@@ -10,5 +10,5 @@ Welcome! My name is Michelle and this is my personal study guide for Eastern and
 
 👉 This study guide is essentially crowd-sourced and might contain some mistakes. If you want to contact an experienced and knowledgeable teacher of Eastern or Western Armenian, pleases visit the following:
 
-👉 New to the language? Start with [Alphabet](/armenian-notes/pages/alphabet.html) to get familiar with the script.
+👉 New to the language? Start with [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html) to get familiar with the script.
 
