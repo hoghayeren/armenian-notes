@@ -21,4 +21,17 @@ layout: default
 | ---------- | --------------| ---------|
 | 3rd Person | Նա (He/She/It) | Նրանք (They) |
 
-Note that **Դու** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people (you all) or someone older than you or higher status according to the context of the environment.
+Note that **Դու** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people ("you all") or someone older than you or higher status according to the context of the environment.
+
+### Eastern Armenian Conjugation of the Verb "To Be"
+The following are some **auxiliary verbs** in Eastern Armenian. These are foundational to forming sentences.
+
+|            | Singular | Plural |
+| ---------- | --------------| ---------|
+| 1st Person | Ես **եմ** (I am)| Մենք **ենք** (We are)|
+| ---------- | --------------| ---------|
+| 2nd Person | Դու **ես** (You are) | Դուք **եք** (You are)|
+| ---------- | --------------| ---------|
+| 3rd Person | Նա **է** (He/She/It is)	 | **Նրանք են** (They are) |
+
+Again, note the difference between **Դու** and **Դուք** depending on number of people, and their status relative to you depending on the context of environment.
