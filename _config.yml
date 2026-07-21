@@ -5,6 +5,3 @@ theme: just-the-docs
 url: https://hoghayeren.github.io
 baseurl: "/armenian-notes"
 
-aux_links:
-  "View on GitHub":
-    - "https://github.com/hoghayeren/armenian-notes"
