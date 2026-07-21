@@ -17,7 +17,8 @@ layout: default
 | ---------- | --------------| ---------|
 | 1st Person | Ես (I) | Մենք (We)|
 | ---------- | --------------| ---------|
-| 2nd Person | Դու (You) | Դուք (You)|
-|            |Informal, Singular | Formal, Plural |
+| 2nd Person | Դու (You inf., sing.) | Դուք (You form. pl.)|
 | ---------- | --------------| ---------|
 | 3rd Person | Նա (He/She/It) | Նրանք (They) |
+
+Note that **Դու** is used when referring to just one person or to someone you know (like a friend) while **Դուք** is used when referring to multiple people (you all) or someone older than you or higher status according to the context of the environment.
