@@ -6,3 +6,4 @@ layout: default
 ---
 
 # Eastern Armenian Alphabet
+Coming soon
