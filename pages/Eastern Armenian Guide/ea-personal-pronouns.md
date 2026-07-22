@@ -3,6 +3,7 @@ title:  Personal Pronouns and "To Be"
 parent: Eastern Armenian Guide
 nav_order: 1
 layout: default
+last_modified_date: 2026-07-22
 ---
 
 # **Personal Pronouns & "To Be"**
