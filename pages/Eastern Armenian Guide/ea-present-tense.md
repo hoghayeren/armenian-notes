@@ -9,7 +9,7 @@ layout: default
 
 ## **Lesson Objectives**
 * Learn about Eastern Armenian verb infinitives.
-* Learn how to conjugate verbs in the present tense.
+* Learn how to conjugate verbs in the present tense in Western Armenian.
 
 ## **Eastern Armenian Verb Infinitives**
 In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. Below are a few examples of Armenian verb infinitives.
@@ -23,7 +23,9 @@ In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. 
 * Կարդալ - to read
 * գրել - to write
 
-<br>
+
+## **Conjugating Verbs in Present Tense**
+
 
 To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում**. Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
 <br>
