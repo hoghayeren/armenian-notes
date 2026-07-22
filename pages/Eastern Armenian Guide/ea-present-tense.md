@@ -14,14 +14,14 @@ layout: default
 ## **Eastern Armenian Verb Infinitives**
 In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. Below are a few examples of Armenian verb infinitives.
 
-Խոսել 	- to speak
-աշխատել - to work
-Ուտել - to eat
-անել - to do
-Խմել - to drink
-գնալ - to go
-Կարդալ - to read
-րել - to write
+* Խոսել - to speak
+* աշխատել - to work
+* Ուտել - to eat
+* անել - to do
+* Խմել - to drink
+* գնալ - to go
+* Կարդալ - to read
+* գրել - to write
 
 
 To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում**. Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
