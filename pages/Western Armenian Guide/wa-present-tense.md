@@ -160,3 +160,11 @@ Below are two examples with the verbs ընել and աշխատիլ.
 | ---------- | --------------| ---------| --------------| ---------|
 | 3rd Person | Ան or Ինք կ՚աշխատ**ի**| He/She/It works | Անոնք or Իրենք կ՚աշխատ**ին** | They work |
 | ---------- | --------------| ---------| --------------| ---------| 
+
+{: .important-title }
+> Important
+>
+> If you have seen my Eastern Armenian notes for the Present Tense, you noticed that I put two different English translations for each case but I did not do that for Western Armenian. In the formal sense, the above conjugations could mean you are doing something in the present moment or you just do something in general which is the case in Eastern Armenian. Colloquially, you might hear someone append the suffix **կոր** after the verb + auxiliary to indicate present continuous tense (ex. ես կ'աշխատիմ կոր/I am working). More on this down below.
+
+## **The Suffix կոր and Its Controversy**
+Coming soon
