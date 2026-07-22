@@ -55,7 +55,9 @@ Here is another example with an **-ալ** verb, Կարդալ.
 
 <br>
 
-{: .note }
-Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
+{: .note-title }
+> Why the two translations?
+>
+> Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
 
 
