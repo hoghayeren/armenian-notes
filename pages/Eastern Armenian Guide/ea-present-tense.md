@@ -15,6 +15,7 @@ layout: default
 In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. Below are a few examples of Armenian verb infinitives.
 
 |   |  |
+|-----------------|--------------------|
 |Խոսել 	- to speak | աշխատել - to work |
 |-----------------|--------------------|
 | Ուտել - to eat | անել - to do |
