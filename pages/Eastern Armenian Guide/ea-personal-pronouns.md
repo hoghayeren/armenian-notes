@@ -46,3 +46,7 @@ The following are the **auxiliary verbs** in Eastern Armenian. These are foundat
 | 3rd Person | Նա **է** (He/She/It is)	 | Նրանք **են** (They are) |
 
 Again, note the difference between **Դու** and **Դուք** depending on number of people, their age, and/or status relative to you depending on the context of environment. For example, if I am talking to my friend, I would use Դու but with my boss or someone I just met I would use Դուք.
+
+
+
+#### **Bibliography**
