@@ -23,6 +23,8 @@ In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. 
 * Կարդալ - to read
 * գրել - to write
 
+<br>
+<br>
 
 To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում**. Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
 <br>
@@ -45,12 +47,15 @@ Here is another example with an **-ալ** verb, Կարդալ.
 | ---------- | ---------| ------------| ------ | ----------- |
 | 1st Person | Ես կարդում **եմ**|I am reading or I read | Մենք կարդում **ենք** | We are reading or We read|
 | ---------- | --------------| ---------| --------------| ---------|
-| 2nd Person | Դու կարդում**ես** | You (inf., sing.) are reading or You read | Դուք կարդում **եք** | You (form., pl.) are reading or You read|
+| 2nd Person | Դու կարդում **ես** | You (inf., sing.) are reading or You read | Դուք կարդում **եք** | You (form., pl.) are reading or You read|
 | ---------- | --------------| ---------| --------------| ---------|
 | 3rd Person | Նա կարդում **է** | He/She/It is reading or He/She/It reads| Նրանք կարդում**են**  | They are reading or They read |
 
 <br>
 
-Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
+{: .note-title }
+> Why the two meanings?
+>
+> Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
 
 
