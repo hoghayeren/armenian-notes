@@ -6,11 +6,12 @@ nav_order: 1
 
 # **Learn Armenian with Միշել**
 
-Welcome! My name is Michelle (Միշել) and this is my personal study guide for Eastern Armenian (արևելահայերեն) and Western Armenian (արեւմտահայերէն), documenting what I'm learning as I go.
+Welcome! My name is Michelle (Միշել) and this is my personal study guide for Eastern Armenian (արևելահայերեն) and Western Armenian (արեւմտահայերէն). I am documenting what I'm learning as I go.
 
-👉 This study guide is essentially crowd-sourced and might contain some mistakes. If you want to contact an experienced and knowledgeable teacher of Eastern or Western Armenian, please visit the following:
+As a disclaimer, I have no cultural ties to Armenia (I am Chinese Vietnamese American) and this study guide is essentially crowd-sourced so it might contain some mistakes and lacking some context that a native speaker might be more aware of. If you want to contact an experienced and knowledgeable teacher of Eastern or Western Armenian, please visit the following:
 
 👉 New to the language? Start with [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html) to get familiar with the script.
+
 
 ## **Contents**
 [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html){: .btn .btn-purple }
