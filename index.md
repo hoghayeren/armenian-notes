@@ -12,3 +12,11 @@ Welcome! My name is Michelle (Միշել) and this is my personal study guide fo
 
 👉 New to the language? Start with [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html) to get familiar with the script.
 
+## **Contents**
+[Alphabet](/armenian-notes/pages/Alphabet/alphabet.html){: .btn .btn-purple }
+[Eastern Armenian Guide](armenian-notes/pages/Eastern%20Armenian%20Guide/eastern-armenian-guide.html){: .btn .btn-outline }
+[Western Armenian Guide](armenian-notes/pages/Western%20Armenian%20Guide/western-armenian-guide.html){: .btn .btn-blue }
+[Orgs and Projects](armenian-notes/pages/armenian-orgs-projects.html){: .btn .btn-outline }
+[Resources](armenian-notes/pages/resources.html){: .btn .btn-outline }
+
+

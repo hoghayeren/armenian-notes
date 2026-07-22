@@ -39,7 +39,6 @@ To conjugate these verbs in present tense, take out the **-ել** or **-ալ** e
 | ---------- | --------------| ---------| --------------| ---------| 
 
 <br>
-<br>
 
 Here is another example with an **-ալ** verb, Կարդալ.
 <br>
