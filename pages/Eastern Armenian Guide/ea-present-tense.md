@@ -29,15 +29,15 @@ To conjugate these verbs in present tense, take out the **-ել** or **-ալ** e
 | ---------- | --------------| ---------|
 | 1st Person | Ես խոսում **եմ**| Մենք խոսում **ենք** |
 | ---------- | --------------| ---------|
-| ---------- | I am speaking | We are speaking |
-| ---------- | I speak| We speak |
+| | I am speaking | We are speaking |
+| | I speak| We speak |
 | 2nd Person | Դու խոսում *ես** | Դուք խոսում **եք** |
-| ---------- | You (inf., sing.) are speaking | You (form., pl.) are speaking |
-| ---------- | You (inf., sing.) speak| You (form., pl.) speak |
+| | You (inf., sing.) are speaking | You (form., pl.) are speaking |
+| | You (inf., sing.) speak| You (form., pl.) speak |
 | ---------- | --------------| ---------|
 | 3rd Person | Նա խոսում **է** | Նրանք խոսում **են**  |
-| ---------- | He/She/It is speaking | They are speaking |
-| ---------- | He/She/It speaks| They speak |
+| | He/She/It is speaking | They are speaking |
+|  | He/She/It speaks| They speak |
 | ---------- | --------------| ---------|
 
 
