@@ -24,9 +24,9 @@ In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. 
 * գրել - to write
 
 <br>
-<br>
 
 To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում**. Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
+<br>
 <br>
 
 |            | Singular | Translation | Plural | Translation |
@@ -39,8 +39,10 @@ To conjugate these verbs in present tense, take out the **-ել** or **-ալ** e
 | ---------- | --------------| ---------| --------------| ---------| 
 
 <br>
+<br>
 
 Here is another example with an **-ալ** verb, Կարդալ.
+<br>
 <br>
 
 |            | Singular | Translation | Plural | Translation |
@@ -53,9 +55,7 @@ Here is another example with an **-ալ** verb, Կարդալ.
 
 <br>
 
-{: .note-title }
-> Why the two meanings?
->
-> Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
+{: .note }
+Note that I put two different English translations for each case. This is because in Eastern Armenian, there is not a clear distinction between doing something in the present moment vs. doing something in general. The distinction will heavily depend on the context of when and where you are saying this. For example, me casually saying **Ես կարդում եմ** when someone asks about my hobbies vs me saying **Ես կարդում եմ** as I am holding an open book in my hands.
 
 
