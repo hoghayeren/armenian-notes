@@ -14,7 +14,7 @@ layout: default
 ## **Eastern Armenian Verb Infinitives**
 In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. Below are a few examples of Armenian verb infinitives.
 
-| Verb Infinitives | Examples |
+| Examples | Examples |
 |-----------------|--------------------|
 |Խոսել 	- to speak | աշխատել - to work |
 |-----------------|--------------------|
@@ -30,10 +30,9 @@ To conjugate these verbs in present tense, take out the **-ել** or **-ալ** e
 |            | Singular | Plural |
 | ---------- | --------------| ---------|
 | 1st Person | Ես խոսում **եմ**| Մենք խոսում **ենք** |
-| ---------- | --------------| ---------|
 | | I am speaking or I speak | We are speaking or We speak|
 | ---------- | --------------| ---------|
-| 2nd Person | Դու խոսում *ես** | Դուք խոսում **եք** |
+| 2nd Person | Դու խոսում **ես** | Դուք խոսում **եք** |
 | | You (inf., sing.) are speaking or You speak | You (form., pl.) are speaking or You speak|
 | ---------- | --------------| ---------|
 | 3rd Person | Նա խոսում **է** | Նրանք խոսում **են**  |
