@@ -74,3 +74,4 @@ Here is another example with an **-ալ** verb, Կարդալ.
 <br>
 <br>
 #### **Bibliography**
+{: .no_toc }
