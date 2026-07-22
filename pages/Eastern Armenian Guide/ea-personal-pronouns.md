@@ -6,6 +6,13 @@ layout: default
 ---
 
 # **Personal Pronouns & "To Be"**
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## **Lesson Objectives**
 * Learn the personal pronouns I, you (singular/informal), he, she, it, we, you (plural/formal), and they in Eastern Armenian.

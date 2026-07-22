@@ -6,6 +6,14 @@ layout: default
 ---
 
 # **Present Tense**
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 ## **Lesson Objectives**
 * Learn about Eastern Armenian verb infinitives.

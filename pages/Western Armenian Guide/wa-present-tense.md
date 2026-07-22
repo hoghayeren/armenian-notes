@@ -6,10 +6,19 @@ layout: default
 ---
 
 # **Present Tense**
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 ## **Lesson Objectives**
 * Learn about Western Armenian verb infinitives.
 * Learn how to conjugate verbs in the present tense in Western Armenian.
+
 
 ## **Western Armenian Verb Infinitives**
 There are a few details and differences when it comes to conjugating verbs in the present tense in Western Armenian. In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. These are present in Western Armenian as well, but there is an additional group of verb infinitives with the ending **-իլ**. Below are some examples:
@@ -45,9 +54,10 @@ The կը is a particle and it is placed before the conjugated verb. Remember the
 <br>
 
 
-<div style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block; font-size: 1.3em; font-weight: bold;">
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
 
-First Group Verbs: -ել
+### First Group Verbs: -ել
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
 
 </div>
 
@@ -66,9 +76,10 @@ By following the formula shown above, conjugating -ել verbs happens by writing
 <br>
 <br>
 
-<div style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block; font-size: 1.3em; font-weight: bold;">
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
 
-Second Group Verbs: -ալ
+### Second Group Verbs: -ալ
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
 
 </div>
 
@@ -87,9 +98,11 @@ Similarly to the first group, conjugating -ալ verbs happens by writing the Կ�
 <br>
 <br>
 
-<div style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block; font-size: 1.3em; font-weight: bold;">
 
-Third Group Verbs: -իլ
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
+
+### Third Group Verbs: -իլ
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
 
 </div>
 
@@ -107,9 +120,11 @@ And finally, similarly to the other two groups, conjugating -իլ verbs happens 
 <br>
 <br>
 
-<div style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block; font-size: 1.3em; font-weight: bold;">
 
-Special Case for Verbs Starting with a Vowel
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
+
+### Special Case for Verbs Starting with a Vowel
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
 
 </div>
 
