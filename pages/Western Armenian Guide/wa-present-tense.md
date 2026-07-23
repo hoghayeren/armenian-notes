@@ -168,10 +168,14 @@ Below are two examples with the verbs ընել and աշխատիլ.
 
 ## **The Controversial Suffix: կոր**
 
-I originally had the two English translations for each of the cases until I found out about the suffix **կոր** and how it's purpose is to distinguish between present simple and present continuous tense but only in speech and never in writing (to my knowledge). However, the usage of this suffix is highly controversial for a few reasons. The most significant reason being that it is said to have been borrowed from the Turkish suffix -iyor.
+I originally had the two English translations for each of the cases until I found out about the suffix **կոր** and how its purpose is to distinguish between present simple and present continuous tense but only in speech and never in writing (to my knowledge). However, the usage of this suffix is highly controversial for a few reasons. The most significant reason being that it is said to have been borrowed from the Turkish suffix -iyor as the semantic function of **կոր** is very similar to it which is the Turkish form of present continuous tense (Donabedian, 2018, p. 24).
+
+But interestingly enough, an alternative origin story of the suffix **կոր** might be, as Donabedian (2018) says, a reduplication of **Կա**. What do you mean "reduplication"? Well, the particle **կը** that we covered above is likely derived from **Կա** as well. In Eastern Armenian, adding **կ-** before your verb is a marker of future tense. As you can derive from this instance, saying **կը** before your verb might lead to some confusion between referring to the present or referring to the future. And so, you add **կոր** to clear that up (Donabedian, 2018, p. 23).
 
 
 <br>
 <br>
 #### **Bibliography**
 {: .no_toc }
+
+1. Anaid Donabedian-Demopoulos. Middle East and Beyond- Western Armenian at the crossroads: A sociolinguistic and typological sketch. Christiane Bulut. A sociolinguistic and typological sketch, in Bulut, Christiane, Linguistic minorities in Turkey and Turkic-speaking minorities of the periphery, 111/2018, Harrazowitz Verlag, 111, Harrazowitz Verlag, pp.89-148, 2018, Turcologica, 978-3-44710723-5. <https://www.harrassowitz-verlag.de/title_1003.ahtml>. <hal-01911806>
