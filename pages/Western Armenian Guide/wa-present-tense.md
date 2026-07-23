@@ -164,10 +164,11 @@ Below are two examples with the verbs ընել and աշխատիլ.
 {: .important-title }
 > Important
 >
-> If you have seen my Eastern Armenian notes for the Present Tense, you noticed that I put two different English translations for each case but I did not do that for Western Armenian. In the formal sense, the above conjugations could mean you are doing something in the present moment or you just do something in general which is the case in Eastern Armenian. Colloquially, you might hear someone append the suffix **կոր** after the verb + auxiliary to indicate present continuous tense (ex. ես կ'աշխատիմ կոր/I am working). More on this down below.
+> If you have seen my Eastern Armenian notes for the Present Tense, you noticed that I put two different English translations for each case but I did not do that for Western Armenian. Formally and in writing, the above conjugations could mean you are doing something in the present moment or you just do something in general which is the case in Eastern Armenian. In speech, you might hear someone append the suffix **կոր** after the verb + auxiliary to indicate present continuous tense (ex. «ես կ'աշխատիմ-կոր/I am working»). More on this down below.
 
 ## **The Controversial Suffix: կոր**
-Coming soon
+
+I originally had the two English translations for each of the cases until I found out about the suffix **կոր** and how it's purpose is to distinguish between present simple and present continuous tense but only in speech and never in writing (to my knowledge). However, the usage of this suffix is highly controversial for a few reasons. The most significant reason being that it is said to have been borrowed from the Turkish suffix -iyor.
 
 
 <br>
