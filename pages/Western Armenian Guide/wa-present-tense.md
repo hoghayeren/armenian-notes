@@ -168,9 +168,35 @@ Below are two examples with the verbs ընել and աշխատիլ.
 
 ## **The Controversial Suffix: կոր**
 
-I originally had the two English translations for each of the cases until I found out about the suffix **կոր** and how its purpose is to distinguish between present simple and present continuous tense but only in speech and never in writing (to my knowledge). However, the usage of this suffix is highly controversial for a few reasons. The most significant reason being that it is said to have been borrowed from the Turkish suffix -iyor as the semantic function of **կոր** is very similar to it which is the Turkish form of present continuous tense (Donabedian, 2018, p. 24).
+I originally had the two English translations for each of the cases until I found out about the suffix **կոր** and how its purpose is to distinguish between present simple and present continuous tense but only in speech and never in writing (to my knowledge). However, the usage of this suffix is highly controversial for a few reasons. The most significant reason being that it is said to have been borrowed from the Turkish suffix -iyor as the semantic function of **կոր** is very similar to it which is the Turkish form of present continuous tense (Donabedian, 2018, p. 23).
 
-But interestingly enough, an alternative origin story of the suffix **կոր** might be, as Donabedian (2018) says, a reduplication of **Կա**. What do you mean "reduplication"? Well, the particle **կը** that we covered above is likely derived from **Կա** as well. In Eastern Armenian, adding **կ-** before your verb is a marker of future tense. As you can derive from this instance, saying **կը** before your verb might lead to some confusion between referring to the present or referring to the future. And so, you add **կոր** to clear that up (Donabedian, 2018, p. 23).
+But interestingly enough, an alternative origin story of the suffix **կոր** might be, as Donabedian (2018) says, a reduplication of **Կա** (which means "there is"). What do you mean "reduplication"? Well, the particle **կը** that we covered above is likely derived from **Կա** as well. In Eastern Armenian, adding **կ-** before your verb is a marker of future tense. As you can derive from this instance, saying **կը** before your verb might lead to some confusion between referring to the present or referring to the future. And so, you add **կոր** to clear that up (Donabedian, 2018, p. 23).
+
+There are many who don't consider the usage of **կոր** to be grammatically correct because of its overlap with Turkish -iyor but also either because of the sound of their sentences, or some socio-cultural perception of class and level of education associated with its usage (no formal sources but just from some online spaces I've encountered).
+
+I've elected to keep the single English translation in present simple tense and opening the option to decide whether or not to use **կոր** when trying to express present continuous action. Even though it is not present in written literature, its usage is still prevalent in colloquial speech according to some of the Western Armenian speakers I have talked to and they believe it is important to acknowledge and so I will respect that.
+
+I will end this long lesson with a nice perspective on language from Dr. Hrayr Varaz Khanjian who introduced me to this controversial topic and has assisted me greatly in my Western Armenian learning journey.
+
+<br>
+
+> "Western Armenian, along with 99% of the world's languages are constantly being replaced by the dominant internet/business languages (English, Mandarin, Spanish, Arabic, Hindustani)
+>
+> Western Armenian lacks a nation and suffers massively from the fear of being used incorrectly.
+>
+> Thousands of kids every day are shamed into silence by our instincts of preservation and perfection. Our efforts for preservation are a driving force of exclusion. 
+>
+> What if we encouraged Western Armenian speakers to release the shackles of shame of incorrect use of the language, and instead encouraged everyone to use the language in whatever capacity they can. Or better yet, what if we created the conditions for the language not just to survive, but to thrive?"
+>
+>
+>
+> \- Dr. Hrayr Varaz Khanjian
+
+
+
+
+
+
 
 
 <br>
