@@ -205,3 +205,4 @@ I will end this long lesson with a nice perspective on language from Dr. Hrayr V
 {: .no_toc }
 
 1. Anaid Donabedian-Demopoulos. Middle East and Beyond- Western Armenian at the crossroads: A sociolinguistic and typological sketch. Christiane Bulut. A sociolinguistic and typological sketch, in Bulut, Christiane, Linguistic minorities in Turkey and Turkic-speaking minorities of the periphery, 111/2018, Harrazowitz Verlag, 111, Harrazowitz Verlag, pp.89-148, 2018, Turcologica, 978-3-44710723-5. <https://www.harrassowitz-verlag.de/title_1003.ahtml>. <hal-01911806>
+2. Khanjian, Hrayr Varaz. “#ճիվճիվ #jivjiv - About.” Hrayr Varaz, www.hrayrvaraz.com/about. Accessed 23 July 2026. 
