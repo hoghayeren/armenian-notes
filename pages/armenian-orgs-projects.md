@@ -1,6 +1,6 @@
 ---
 title: Armenian Organizations and Projects
-nav_order: 6
+nav_order: 8
 layout: default
 last_modified_date: 2026-07-23
 ---

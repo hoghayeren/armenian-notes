@@ -1,6 +1,6 @@
 ---
 title: Contributors
-nav_order: 8
+nav_order: 10
 layout: default
 last_modified_date: 2026-07-23
 ---
