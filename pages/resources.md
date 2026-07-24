@@ -1,6 +1,6 @@
 ---
 title: Resources
-nav_order: 6
+nav_order: 7
 layout: default
 last_modified_date: 2026-07-23
 ---
