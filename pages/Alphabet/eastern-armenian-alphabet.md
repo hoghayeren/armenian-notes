@@ -56,7 +56,7 @@ last_modified_date: 2026-07-23
 | Տ տ | t |
 | Ր ր | r |
 | Ց ց | ts (strong) |
-| ՈՒ ու | u |
+| ՈՒ ու | oo |
 | Փ փ | p (with a puff) |
 | Ք ք | k (with a puff) |
 | Օ օ | o |
