@@ -5,10 +5,34 @@ layout: default
 last_modified_date: 2026-07-23
 ---
 # **Armenian Organizations and Projects**
-Here some high impact organizations and interesting projects I have come across throughout my Armenian-learning journey.
+{: .no_toc }
+Here are some high-impact organizations and interesting projects I have come across throughout my Armenian-learning journey. You can click on their names to visit their pages and learn more!
+<br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # **Organizations**
-Coming soon
+
+* **[Lernazang (Լեռնազանգ)](https://www.instagram.com/lernazang/?hl=en)**
+{: style="margin: 0 0 8px 0; font-size: 1.5em;" }
+
+<img src="/armenian-notes/assets/images/images/lernazang-logo.png" alt="Lernazang logo" style="width: 100%; max-width: 500px; height: 250px; object-fit: cover; border-radius: 4px; display: block; margin: 0 auto 12px auto; transform: translateX(-100px);">
+<p style="text-align: left; font-size: 0.8em; color: #888; margin: 0 0 12px 0; transform: translateX(20px)">Image credit: Center for World Music</p>
+>
+> "Lernazang is a nonprofit organization, cultural collective, and performance ensemble based in Los Angeles. Their mission is to decolonize Armenian dance and music aesthetics while strengthening Armenian cultural heritage in the diaspora."
+>
+>\- [Center for World Music](https://centerforworldmusic.org/event/armenian-heritage-lernazang-ensemble/)
+
+Someone from the comments of one of my TikToks invited me to check out the weekly Armenian folk dance classes in Pasadena run by Lernazang (Լեռնազանգ). It's been a great experience learning the group dances and I've met a number of wonderful people through these classes. Some of the most intense cardio I've ever experienced!
+
+
 
 # **Projects**
-Coming soon
+
+* **[The Armenian Language in the Bay Area Project (ALBA)](https://sites.google.com/view/juliannekapner/alba)**
+{: style="margin: 0 0 8px 0; font-size: 1.5em;" }
+
