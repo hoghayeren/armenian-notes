@@ -62,6 +62,7 @@ last_modified_date: 2026-07-23
 | Ֆ ֆ | f |
 
 {: .note-title }
-> Compound Vowel
+> Compound Vowels
 >
-> ՈՒ ու is a compound vowel and is pronounced like "ooh"
+> ՈՒ ու is a compound vowel and is pronounced like "oo" in boot <br>
+> իւ is a compound vowel and it is pronounced like "i-oo"
