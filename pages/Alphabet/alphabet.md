@@ -3,7 +3,7 @@ title: Alphabet
 nav_order: 2
 has_children: true
 layout: default
-last_modified_date: 2026-07-23
+last_modified_date: 2026-07-24
 ---
 
 # **Armenian Alphabet**
