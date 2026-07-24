@@ -18,7 +18,7 @@ The Armenian alphabet (Հայոց այբուբեն) was developed around 405 AD 
 {: .note-title }
 > Two Alphabets?
 >
-> I have gotten some feedback about why I have two different tabs for the Armenian alphabet when both Eastern Armenian and Western Armenian use the same alphabet. There are three reasons:
+> I have gotten some feedback about why I have two different tabs for the Armenian alphabet when both Eastern Armenian and Western Armenian use the same alphabet. There are two reasons:
 > * Differences in pronunciation warranted their own pages
 > * Some Eastern speakers I spoke to consider և to be part of the Eastern Armenian alphabet which does not exist in Western Armenian (it is just եւ) <br>
 >
