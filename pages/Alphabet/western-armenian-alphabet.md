@@ -26,7 +26,7 @@ last_modified_date: 2026-07-23
 | Բ բ | b |
 | Գ գ | g |
 | Դ դ | d |
-| Ե ե | ye at beginning of words; eh in middle |
+| Ե ե | ye at beginning of word; eh in middle of word|
 | Զ զ | z |
 | Է է | eh |
 | Ը ը | uh |
@@ -55,8 +55,13 @@ last_modified_date: 2026-07-23
 | Տ տ | t |
 | Ր ր | r |
 | Ց ց | ts (strong) |
-| ՈՒ ու | u |
+| Ւ ւ | v |
 | Փ փ | p (with a puff) |
 | Ք ք | k (with a puff) |
 | Օ օ | o |
 | Ֆ ֆ | f |
+
+{: .note-title }
+> Compound Vowel
+>
+> ՈՒ ու is a compound vowel and is pronounced like "ooh"
