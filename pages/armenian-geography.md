@@ -5,7 +5,7 @@ layout: default
 last_modified_date: 2026-07-24
 ---
 
-# Map of Armenia
+# **Map of Armenia**
 {: .no_toc }
 
 Click a region to learn more about it.
