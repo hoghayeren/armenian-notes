@@ -6,22 +6,37 @@ nav_order: 1
 
 # **Learn Armenian with Միշել**
 
-Welcome! My name is Michelle (Միշել) and this is my personal study guide for Eastern Armenian (արևելահայերեն) and Western Armenian (արեւմտահայերէն). I am documenting what I'm learning as I go.
+Welcome! My name is Michelle (Միշել) and this is my personal study guide for Eastern Armenian (արևելահայերեն) and Western Armenian (արեւմտահայերէն) along with things I've learned about Armenian culture and history.
 
-As a disclaimer, I have no cultural ties to Armenia (I am Chinese Vietnamese American) and this study guide is essentially crowd-sourced so it might contain some mistakes and lacking some context that a native speaker might be more aware of. If you want to contact an experienced and knowledgeable teacher of Eastern or Western Armenian, please visit the following:
+I am aiming to create a thorough Armenian language-learning resource that is digestible where even a foreigner (like myself) can pick it up effectively. The resources I use will be listed [here](/armenian-notes/pages/resources.html).
+
+Of course, I cannot do this alone and I want to give special thanks to the people who are helping me along my learning journey. You can find out more about them on the [Contributors](/armenian-notes/pages/contributors.html) page.
+
+This website is not monetized and I intend on keeping it that way, but if you would like support any Armenian organizations and projects, I have a list of them [here](/armenian-notes/pages/armenian-orgs-projects.html).
 
 👉 New to the language? Start with [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html) to get familiar with the script.
 
 
-## **Contents**
+## **Armenian Language**
 [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html){: .btn .btn-purple }
 
-[Eastern Armenian Guide](/armenian-notes/pages/Eastern%20Armenian%20Guide/eastern-armenian-guide.html){: .btn .btn-blue }
+[Eastern Armenian Guide](/armenian-notes/pages/Eastern%20Armenian%20Guide/eastern-armenian-guide.html){: .btn .btn-purple }
 
-[Western Armenian Guide](/armenian-notes/pages/Western%20Armenian%20Guide/western-armenian-guide.html){: .btn .btn-blue }
+[Western Armenian Guide](/armenian-notes/pages/Western%20Armenian%20Guide/western-armenian-guide.html){: .btn .btn-purple }
 
-[Orgs and Projects](/armenian-notes/pages/armenian-orgs-projects.html){: .btn .btn-outline }
 
-[Resources](/armenian-notes/pages/resources.html){: .btn .btn-outline }
+## **Armenian Culture and History**
+[History](/armenian-notes/pages/armenian-history.html){: .btn .btn-green }
+
+[Geography](/armenian-notes/pages/armenian-geography.html){: .btn .btn-green }
+
+
+## **Misc**
+
+[Organizations and Projects](/armenian-notes/pages/armenian-orgs-projects.html){: .btn .btn-blue }
+
+[Resources](/armenian-notes/pages/resources.html){: .btn .btn-blue }
+
+[Contributors](/armenian-notes/pages/contributors.html){: .btn .btn-blue }
 
 
