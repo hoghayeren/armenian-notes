@@ -12,7 +12,7 @@ I am aiming to create a thorough Armenian language-learning resource that is dig
 
 Of course, I cannot do this alone and I want to give special thanks to the people who are helping me along my learning journey. You can find out more about them on the [Contributors](/armenian-notes/pages/contributors.html) page.
 
-This website is not monetized and I intend on keeping it that way, but if you would like support any Armenian organizations and projects, I have a list of them [here](/armenian-notes/pages/armenian-orgs-projects.html).
+This website is not monetized and I intend on keeping it that way, but if you would like to support any Armenian organizations and projects, I have a list of them [here](/armenian-notes/pages/armenian-orgs-projects.html).
 
 👉 New to the language? Start with [Alphabet](/armenian-notes/pages/Alphabet/alphabet.html) to get familiar with the script.
 
