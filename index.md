@@ -10,7 +10,7 @@ Welcome! My name is Michelle (Միշել) and this is my personal study guide fo
 
 I am aiming to create a thorough Armenian language-learning resource that is digestible where even a foreigner (like myself) can pick it up effectively. The resources I use will be listed [here](/armenian-notes/pages/resources.html).
 
-Even though I want to create an Armenian language learning resource from the perspective of a foreigner, I acknowledge that there are limits to my ability to understand the many nuances in the language, culture, and history of Armenia. I want to give a very special thanks to my collaborators who have graciously offered to help me on my learning journey and share their expertise. You can find out more about them on the [Contributors](/armenian-notes/pages/contributors.html) page.
+I acknowledge that there are limits to my ability to understand the many nuances in the language, culture, and history of Armenia. I want to give a very special thanks to my collaborators who have graciously offered to help me on my learning journey and share their expertise. You can find out more about them on the [Contributors](/armenian-notes/pages/contributors.html) page.
 
 This website is not monetized and I intend on keeping it that way, but if you would like to support any Armenian organizations and projects, I have a list of them [here](/armenian-notes/pages/armenian-orgs-projects.html).
 
