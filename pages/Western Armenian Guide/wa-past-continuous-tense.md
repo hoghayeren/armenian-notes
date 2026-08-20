@@ -3,10 +3,10 @@ title: Simple Past Tense
 parent: Western Armenian Guide
 nav_order: 3
 layout: default
-last_modified_date: 2026-07-22
+last_modified_date: 2026-08-20
 ---
 
-# **Simple Past Tense**
+# **Past Continuous Tense**
 {: .no_toc }
 
 ## Table of contents
@@ -14,4 +14,6 @@ last_modified_date: 2026-07-22
 
 1. TOC
 {:toc}
-Coming soon
+
+## **Lesson Objectives**
+* Learn how to conjugate verbs in the past continuous tense in Western Armenian.

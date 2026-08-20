@@ -18,7 +18,7 @@ last_modified_date: 2026-07-22
 
 ## **Lesson Objectives**
 * Learn about Eastern Armenian verb infinitives.
-* Learn how to conjugate verbs in the present tense in Western Armenian.
+* Learn how to conjugate verbs in the present tense in Eastern Armenian.
 
 ## **Eastern Armenian Verb Infinitives**
 In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. Below are a few examples of Armenian verb infinitives.
