@@ -3,7 +3,7 @@ title: Present Tense
 parent: Eastern Armenian Guide
 nav_order: 2
 layout: default
-last_modified_date: 2026-07-22
+last_modified_date: 2026-08-20
 ---
 
 # **Present Tense**
@@ -36,7 +36,7 @@ In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. 
 ## **Conjugating Verbs in Present Tense**
 
 
-To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում**. Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
+To conjugate these verbs in present tense, take out the **-ել** or **-ալ** ending and replace it with **-ում** (called a continuous marker). Then, add the auxiliary verbs after your newly constructed verb as shown below with the verb Խոսել.
 <br>
 <br>
 
