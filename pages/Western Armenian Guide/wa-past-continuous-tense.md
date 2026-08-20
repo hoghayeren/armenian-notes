@@ -1,5 +1,5 @@
 ---
-title: Simple Past Tense
+title: Past Continuous Tense
 parent: Western Armenian Guide
 nav_order: 3
 layout: default

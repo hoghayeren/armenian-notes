@@ -1,5 +1,5 @@
 ---
-title: Simple Past Tense
+title: Past Continuous Tense
 parent: Eastern Armenian Guide
 nav_order: 3
 layout: default
