@@ -3,7 +3,7 @@ title: Present Tense
 parent: Western Armenian Guide
 nav_order: 2
 layout: default
-last_modified_date: 2026-07-22
+last_modified_date: 2026-08-22
 ---
 
 # **Present Tense**
@@ -62,7 +62,7 @@ The կը is a particle and it is placed before the conjugated verb. Remember the
 
 </div>
 
-By following the formula shown above, conjugating -ել verbs happens by writing the Կը particle, then dropping the -ել ending of the verb, and replacing it with **-եմ**, **-ես**, **-է**, **-ենք**, **-էք**, or **-են** based on the person.
+By following the formula shown above, conjugating -ել verbs happens by writing the Կը particle, then dropping the -ել ending of the verb, and replacing it with **-եմ**, **-ես**, **-է**, **-ենք**, **-էք**, or **-են** based on the person. Here is an example with the verb *սիրել (to love/like)*.
 
 
 |            | Singular | Translation | Plural | Translation |
@@ -84,7 +84,7 @@ By following the formula shown above, conjugating -ել verbs happens by writing
 
 </div>
 
-Similarly to the first group, conjugating -ալ verbs happens by writing the Կը particle, then dropping the -ալ ending of the verb, but replacing it with **-ամ**, **-աս**, **-այ**, **-անք**, **-աք**, or **-ան** based on the person.
+Similarly to the first group, conjugating -ալ verbs happens by writing the Կը particle, then dropping the -ալ ending of the verb, but replacing it with **-ամ**, **-աս**, **-այ**, **-անք**, **-աք**, or **-ան** based on the person. Here is an example with the verb *կարդալ (to read)*.
 
 
 |            | Singular | Translation | Plural | Translation |
@@ -107,7 +107,7 @@ Similarly to the first group, conjugating -ալ verbs happens by writing the Կ�
 
 </div>
 
-And finally, similarly to the other two groups, conjugating -իլ verbs happens by writing the Կը particle, then dropping the -իլ ending of the verb, but replacing it with **-իմ**, **-իս**, **-ի**, **-ինք**, **-իք**, or **-ին** based on the person.
+And finally, similarly to the other two groups, conjugating -իլ verbs happens by writing the Կը particle, then dropping the -իլ ending of the verb, but replacing it with **-իմ**, **-իս**, **-ի**, **-ինք**, **-իք**, or **-ին** based on the person. Here is an example with the verb *խօսիլ (to speak)*.
 
 |            | Singular | Translation | Plural | Translation |
 | ---------- | ---------| ------------| ------ | ----------- |

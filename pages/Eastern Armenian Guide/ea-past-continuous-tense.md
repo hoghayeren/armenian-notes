@@ -3,7 +3,7 @@ title: Past Continuous Tense
 parent: Eastern Armenian Guide
 nav_order: 3
 layout: default
-last_modified_date: 2026-08-20
+last_modified_date: 2026-08-22
 ---
 
 # **Past Continuous Tense**
@@ -16,10 +16,10 @@ last_modified_date: 2026-08-20
 {:toc}
 
 ## **Lesson Objectives**
-* Learn how to conjugate verbs in the past continuous tense in Eastern Armenian.
+* Learn how to conjugate verbs in the past continuous (aka imperfect/past progressive) tense in Eastern Armenian.
 
 ## **What is Past Continuous Tense and When Do I Use It?**
-**Past continuous tense** (also known as **past progressive**) is used when you want to describe an *ongoing action that was happening in a specific moment in the past*. For example, "I was playing football yesterday", "We were watching TV", or "She was cooking dinner". Notice in English that we use the words "was/were" and our verbs end in "-ing" which indicates it was an ongoing action.
+**Past continuous tense** (also known as **past progressive** or **imperfect**) is used when you want to describe an *ongoing action that was happening in a specific moment in the past*. For example, "I was playing football yesterday", "We were watching TV", or "She was cooking dinner". Notice in English that we use the words "was/were" and our verbs end in "-ing" which indicates it was an ongoing action.
 
 ## **Conjugating Verbs in Past Continuous Tense**
 Conjugating Armenian verbs in past continuous tense follows a similar rule to conjugating in the present tense. The only difference is in the auxiliary verbs which are **էի**, **էիր**, **էր**, **էինք**, **էիք**, **էին**.
