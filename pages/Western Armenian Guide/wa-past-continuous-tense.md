@@ -9,7 +9,7 @@ last_modified_date: 2026-08-22
 # **Past Continuous Tense**
 {: .no_toc }
 
-Huge thanks to my colleague, [Joseph (Յովսէփ) Tertzakian-Harris](https://bug-free-bassoon-77r97w574j993pgqg-4000.app.github.dev/armenian-notes/pages/contributors.html), for helping me immensely on these notes.
+Huge thanks to my colleague, [Joseph (Յովսէփ) Tertzakian-Harris](/armenian-notes/pages/contributors.html), for helping me immensely on these notes.
 <br>
 <br>
 ## Table of contents
