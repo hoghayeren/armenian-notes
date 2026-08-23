@@ -94,7 +94,7 @@ Conjugating -իլ verbs in the imperfect happens by writing the Կը particle, t
 
 </div>
 
-Conjugating -ուլ verbs in the imperfect happens by writing the Կը particle, then dropping the -ուլ ending of the verb, and replacing it with ի, -էիր, -էր, -էինք, -էիք, or -էին based on the person. Note the endings are the same as the first and third group. Here is an example with the verb *թողուլ (to allow).
+Conjugating -ուլ verbs in the imperfect happens by writing the Կը particle, then dropping the -ուլ ending of the verb, and replacing it with ի, -էիր, -էր, -էինք, -էիք, or -էին based on the person. Note the endings are the same as the first and third group. Here is an example with the verb *թողուլ (to allow)*.
 
 |            | Singular | Translation | Plural | Translation |
 | ---------- | ---------| ------------| ------ | ----------- |
