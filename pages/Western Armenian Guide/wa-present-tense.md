@@ -3,11 +3,13 @@ title: Present Tense
 parent: Western Armenian Guide
 nav_order: 2
 layout: default
-last_modified_date: 2026-08-22
+last_modified_date: 2026-08-24
 ---
 
 # **Present Tense**
 {: .no_toc }
+
+Special thanks to my colleague, [Joseph (Յովսէփ) Tertzakian-Harris](/armenian-notes/pages/contributors.html), for helping me on the notes for the -ուլ group verbs as well as the exception cases for the verbs գալ, լալ, and տալ!
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -22,7 +24,7 @@ last_modified_date: 2026-08-22
 
 
 ## **Western Armenian Verb Infinitives**
-There are a few details and differences when it comes to conjugating verbs in the present tense in Western Armenian. In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. These are present in Western Armenian as well, but there is an additional group of verb infinitives with the ending **-իլ**. Below are some examples:
+There are a few details and differences when it comes to conjugating verbs in the present tense in Western Armenian. In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. These are present in Western Armenian as well, but there are two additional group of verb infinitives with the ending **-իլ** and **-ուլ**. Below are some examples:
 
 * Խօսիլ - to speak
 * ընել - to do
@@ -32,6 +34,8 @@ There are a few details and differences when it comes to conjugating verbs in th
 * տեսնել - to see
 * երթալ - to go
 * կարդալ - to read
+* թողուլ - to allow
+* հեղուլ - to shed
 
 {: .note-title }
 > Why is the spelling different from Eastern Armenian?
@@ -49,7 +53,7 @@ Now the major differences show up here when conjugating present tense in Western
 
 </div>
 
-The կը is a particle and it is placed before the conjugated verb. Remember the 3 groups of verb infinitives we covered above? All 3 of those cases are conjugated differently from each other and they are shown below.
+The կը is a particle and it is placed before the conjugated verb. Remember the 4 groups of verb infinitives we covered above? 3 of those cases are conjugated differently from each other while the **-ուլ** group has an interested circumstance covered below. There are also a few exceptions which will be covered as well.
 <br>
 <br>
 <br>
@@ -107,7 +111,7 @@ Similarly to the first group, conjugating -ալ verbs happens by writing the Կ�
 
 </div>
 
-And finally, similarly to the other two groups, conjugating -իլ verbs happens by writing the Կը particle, then dropping the -իլ ending of the verb, but replacing it with **-իմ**, **-իս**, **-ի**, **-ինք**, **-իք**, or **-ին** based on the person. Here is an example with the verb *խօսիլ (to speak)*.
+Similarly to the other two groups, conjugating -իլ verbs happens by writing the Կը particle, then dropping the -իլ ending of the verb, but replacing it with **-իմ**, **-իս**, **-ի**, **-ինք**, **-իք**, or **-ին** based on the person. Here is an example with the verb *խօսիլ (to speak)*.
 
 |            | Singular | Translation | Plural | Translation |
 | ---------- | ---------| ------------| ------ | ----------- |
@@ -116,6 +120,29 @@ And finally, similarly to the other two groups, conjugating -իլ verbs happens 
 | 2nd Person | Դուն կը խօս**իս** | You (inf., sing.) speak | Դուք կը խօս**իք**| You (form., pl.) speak|
 | ---------- | --------------| ---------| --------------| ---------|
 | 3rd Person | Ան or Ինք կը խօս**ի**| He/She/It speaks | Անոնք or Իրենք կը խօս**ին**  | They speak |
+| ---------- | --------------| ---------| --------------| ---------| 
+
+<br>
+<br>
+
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
+
+### Fourth Group Verbs: -ուլ
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
+
+</div>
+
+The fourth group of verbs has the suffix **–ուլ** and it is the rarest type of infinitive, only occurring in a few verbs. The -ուլ infinitives are mainly used in formal conversation, and most of the **-ուլ** infinitives have an equivalent in another word group. For example, the most common **–ուլ** verb in conversation is թողուլ, meaning “to leave; to let, allow" which is from Old/Classical Armenian and it's modern variant is *թողնել* and so you would conjugate this verb in present tense according to -ել group conjugation rules covered above. But, there is a Classical Armenian conjugation rule and it is as follows.
+
+Once again, you write your Կը particle, drop your –ուլ ending, and then replace it with **ում**, **ուս**, **ու**, **ունք**, **ուք**, and **ուն** depending on the person.
+
+|            | Singular | Translation | Plural | Translation |
+| ---------- | ---------| ------------| ------ | ----------- |
+| 1st Person | Ես կը թող**ում** |I allow | Մենք կը թող**ունք** | We allow|
+| ---------- | --------------| ---------| --------------| ---------|
+| 2nd Person | Դուն կը թող**ուս** | You (inf., sing.) allow | Դուք կը թող**ուք**| You (form., pl.) allow|
+| ---------- | --------------| ---------| --------------| ---------|
+| 3rd Person | Ան or Ինք կը թող**ու**| He/She/It allows | Անոնք or Իրենք կը թող**ուն**  | They allow |
 | ---------- | --------------| ---------| --------------| ---------| 
 
 <br>
@@ -160,6 +187,25 @@ Below are two examples with the verbs ընել and աշխատիլ.
 | ---------- | --------------| ---------| --------------| ---------|
 | 3rd Person | Ան or Ինք կ՚աշխատ**ի**| He/She/It works | Անոնք or Իրենք կ՚աշխատ**ին** | They work |
 | ---------- | --------------| ---------| --------------| ---------| 
+
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
+
+### The Verbs գալ, լալ, and տալ
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
+
+</div>
+
+The verbs գալ (to come), լալ (to cry), and տալ (to give) are conjugated slightly differently than other verbs in Western Armenian. Instead of taking the particle կը, they take the particle կու for both the present and imperfect tenses. The endings of the conjugations will be the same as the second group of verbs (**-ալ**). The following is the conjugation of գալ in the present tense and the imperfect (aka past continuous) tense will be covered in the notes for [past continuous](/armenian-notes/pages/Western%20Armenian%20Guide/wa-past-continuous-tense.html).
+
+|            | Singular | Translation | Plural | Translation |
+| ---------- | ---------| ------------| ------ | ----------- |
+| 1st Person | Ես կը **կու** գամ |I come | Մենք **կու** գանք| We come|
+| ---------- | --------------| ---------| --------------| ---------|
+| 2nd Person | Դուն **կու** գաս | You (inf., sing.) come | Դուք **կու** գաք| You (form., pl.) come|
+| ---------- | --------------| ---------| --------------| ---------|
+| 3rd Person | Ան or Ինք **կու** գայ| He/She/It comes | Անոնք or Իրենք **կու** գան | They come |
+| ---------- | --------------| ---------| --------------| ---------| 
+
 
 {: .important-title }
 > Important
