@@ -3,7 +3,7 @@ title: Past Continuous Tense
 parent: Western Armenian Guide
 nav_order: 3
 layout: default
-last_modified_date: 2026-08-22
+last_modified_date: 2026-08-24
 ---
 
 # **Past Continuous Tense**
