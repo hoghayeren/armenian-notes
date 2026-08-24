@@ -106,5 +106,25 @@ Conjugating -ուլ verbs in the imperfect happens by writing the Կը particle,
 
 <br>
 
+<div markdown="1" style="border: 2px solid #e67e22; background-color: #fff3e0; padding: 10px; border-radius: 4px; display: inline-block;">
+
+### The Verbs գալ, լալ, and տալ
+{: style="margin: 0 !important; line-height: normal !important; font-size: 1.3em !important; font-weight: bold !important;" }
+
+</div>
+
+As mentioned in the notes for [present tense](/armenian-notes/pages/Western%20Armenian%20Guide/wa-present-tense.html), the verbs գալ (to come), լալ (to cry), and տալ (to give) are conjugated slightly differently than other verbs in Western Armenian. Instead of taking the particle կը, they take the particle կու for both the present and past continuous tenses. The endings of the conjugations will be the same as the second group of verbs (-ալ). The following is the conjugation of գալ in past continuous tense :
+
+|            | Singular | Translation | Plural | Translation |
+| ---------- | ---------| ------------| ------ | ----------- |
+| 1st Person | Ես կը **կու** գայի |I was coming | Մենք **կու** գայինք| We were coming|
+| ---------- | --------------| ---------| --------------| ---------|
+| 2nd Person | Դուն **կու** գայիր | You (inf., sing.) were coming | Դուք **կու** գայիք| You (form., pl.) was coming|
+| ---------- | --------------| ---------| --------------| ---------|
+| 3rd Person | Ան or Ինք **կու** գար| He/She/It was coming | Անոնք or Իրենք **կու** գային | They were coming |
+| ---------- | --------------| ---------| --------------| ---------| 
+
+<br>
+
 ## **The Addition of կոր**
 Just like in the present tense, **կոր** can follow any of the conjugated imperfect tenses in spoken Western Armenian; for example, *կը սիրէի կոր*, *կը կարդայիր կոր*, and *կը խօսէր կոր*. The addition of կոր to the imperfect tense indicates a more continuous and habitual action, just as it does with the present. The simplest way to translate it into English is with “I used to…”; for example, “I used to love,” "you used to read,” and “he used to speak.”
