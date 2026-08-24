@@ -117,7 +117,7 @@ As mentioned in the notes for [present tense](/armenian-notes/pages/Western%20Ar
 
 |            | Singular | Translation | Plural | Translation |
 | ---------- | ---------| ------------| ------ | ----------- |
-| 1st Person | Ես կը **կու** գայի |I was coming | Մենք **կու** գայինք| We were coming|
+| 1st Person | Ես **կու** գայի |I was coming | Մենք **կու** գայինք| We were coming|
 | ---------- | --------------| ---------| --------------| ---------|
 | 2nd Person | Դուն **կու** գայիր | You (inf., sing.) were coming | Դուք **կու** գայիք| You (form., pl.) was coming|
 | ---------- | --------------| ---------| --------------| ---------|
