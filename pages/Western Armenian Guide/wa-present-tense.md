@@ -3,7 +3,7 @@ title: Present Tense
 parent: Western Armenian Guide
 nav_order: 2
 layout: default
-last_modified_date: 2026-08-24
+last_modified_date: 2026-08-26
 ---
 
 # **Present Tense**
@@ -221,22 +221,6 @@ But interestingly enough, an alternative origin story of the suffix **կոր** m
 There are many who don't consider the usage of **կոր** to be grammatically correct because of its overlap with Turkish -iyor but also either because of the sound of their sentences, or some socio-cultural perception of class and level of education associated with its usage (no formal sources but just from some online spaces I've encountered).
 
 I've elected to keep the single English translation in present simple tense and opening the option to decide whether or not to use **կոր** when trying to express present continuous action. Even though it is not present in written literature, its usage is still prevalent in colloquial speech according to some of the Western Armenian speakers I have talked to and they believe it is important to acknowledge and so I will respect that.
-
-I will end this long lesson with a nice perspective on language from Dr. Hrayr Varaz Khanjian who introduced me to this controversial topic and has assisted me greatly in my Western Armenian learning journey.
-
-<br>
-
-> "Western Armenian, along with 99% of the world's languages are constantly being replaced by the dominant internet/business languages (English, Mandarin, Spanish, Arabic, Hindustani)
->
-> Western Armenian lacks a nation and suffers massively from the fear of being used incorrectly.
->
-> Thousands of kids every day are shamed into silence by our instincts of preservation and perfection. Our efforts for preservation are a driving force of exclusion. 
->
-> What if we encouraged Western Armenian speakers to release the shackles of shame of incorrect use of the language, and instead encouraged everyone to use the language in whatever capacity they can. Or better yet, what if we created the conditions for the language not just to survive, but to thrive?"
->
->
->
-> \- Dr. Hrayr Varaz Khanjian
 
 
 
