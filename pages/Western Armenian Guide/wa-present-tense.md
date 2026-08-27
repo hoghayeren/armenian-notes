@@ -55,7 +55,7 @@ Now the major differences show up here when conjugating present tense in Western
 
 </div>
 
-The կը is a particle and it is placed before the conjugated verb. Remember the 4 groups of verb infinitives we covered above? 3 of those cases are conjugated differently from each other while the **-ուլ** group has an interested circumstance covered below. There are also a few exceptions which will be covered as well.
+The կը is a particle and it is placed before the conjugated verb. Remember the 4 groups of verb infinitives we covered above? 3 of those cases are conjugated differently from each other while the **-ուլ** group has an interesting circumstance covered below. There are also a few exceptions which will be covered as well.
 <br>
 <br>
 <br>
