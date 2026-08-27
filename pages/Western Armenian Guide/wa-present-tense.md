@@ -26,14 +26,16 @@ Special thanks to my colleague, [Joseph (Յովսէփ) Tertzakian-Harris](/armen
 ## **Western Armenian Verb Infinitives**
 There are a few details and differences when it comes to conjugating verbs in the present tense in Western Armenian. In Eastern Armenian, verb infinitives have two endings: **-ել** or **-ալ**. These are present in Western Armenian as well, but there are two additional group of verb infinitives with the ending **-իլ** and **-ուլ**. Below are some examples:
 
-* Խօսիլ - to speak
+
 * ընել - to do
-* ապրիլ - to live
-* աշխատիլ - work
-* սիրել - to love/like
 * տեսնել - to see
+* սիրել - to love/like
 * երթալ - to go
 * կարդալ - to read
+* Խաղալ - to play
+* Խօսիլ - to speak
+* ապրիլ - to live
+* աշխատիլ - work
 * թողուլ - to allow
 * հեղուլ - to shed
 
